@@ -1,6 +1,6 @@
 function stringChop(str, size) {
   // your code here
-	if(!str) retunr [];
+	if(!str) return [];
 
 	const chunks =[];
 	let start = 0;
